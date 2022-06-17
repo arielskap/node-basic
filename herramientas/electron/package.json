@@ -11,6 +11,6 @@
   "author": "Ariel Villarreal <arielvillagu@hotmail.com>",
   "license": "MIT",
   "dependencies": {
-    "electron": "^9.1.2"
+    "electron": "^15.5.5"
   }
 }
